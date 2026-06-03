@@ -22,7 +22,7 @@ Jointures et normalisation avancée
 Écriture en tables Silver
 
 3. 03_api_pipeline
-Appels API externes (si applicable)
+Appels API externes
 
 Intégration de données additionnelles
 
@@ -59,13 +59,11 @@ Databricks Notebooks (Python / SQL)
 
 Delta Lake
 
-Auto Loader (si utilisé)
-
 Databricks Jobs (orchestration)
 
 Databricks Workflows (optionnel)
 
-API externes (si applicable)
+API externes
 
 # Exécution
 Le pipeline peut être exécuté via :
